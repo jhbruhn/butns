@@ -1,0 +1,23 @@
+name: Compile Firmware
+
+on:
+  - push
+  - pull_request
+
+jobs:
+  compile-firmware:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Generate Models
+        uses: pkoehlers/openscad-build-action@v1
+        with:
+          input-file: 'hardware/case/case.scad'
+          output-file: 'case.stl'
+      - name: Archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: case
+          path: case.stl
