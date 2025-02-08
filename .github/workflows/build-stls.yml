@@ -5,14 +5,14 @@ on:
   - pull_request
 
 jobs:
-  compile-firmware:
+  build-stls:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Generate Models
-        uses: pkoehlers/openscad-build-action@v1
+        uses: pkoehlers/openscad-build-action@54267e4b137c716efa15a48bd53f743a23fea606
         with:
           input-file: 'hardware/case/case.scad'
           output-file: 'case.stl'
