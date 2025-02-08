@@ -13,13 +13,42 @@ jobs:
         uses: actions/checkout@v2
         with:
           submodules: true
-      - name: Generate Models
+      - name: Generate Case
         uses: pkoehlers/openscad-build-action@54267e4b137c716efa15a48bd53f743a23fea606
         with:
           input-file: 'hardware/case/case.scad'
           output-file: 'case.stl'
+      - name: Generate Buttons
+        uses: pkoehlers/openscad-build-action@54267e4b137c716efa15a48bd53f743a23fea606
+        with:
+          input-file: 'hardware/case/buttons.scad'
+          output-file: 'buttons.stl'
+          customizer-parameter-file: 'hardware/case/buttons.json'
+          customizer-parameter-set: 'Buttons'
+      - name: Generate Inlay
+        uses: pkoehlers/openscad-build-action@54267e4b137c716efa15a48bd53f743a23fea606
+        with:
+          input-file: 'hardware/case/buttons.scad'
+          output-file: 'buttons-tpu-inlay.stl'
+          customizer-parameter-file: 'hardware/case/buttons.json'
+          customizer-parameter-set: 'Inlay'
+      - name: Generate Inlay
+        uses: pkoehlers/openscad-build-action@54267e4b137c716efa15a48bd53f743a23fea606
+        with:
+          input-file: 'hardware/case/buttons.scad'
+          output-file: 'buttons-black-blockers.stl'
+          customizer-parameter-file: 'hardware/case/buttons.json'
+          customizer-parameter-set: 'Blockers'
       - name: Archive
         uses: actions/upload-artifact@v4
         with:
           name: case
           path: case.stl
+      - name: Archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: buttons
+          path: |
+            buttons.stl
+            buttons-tpu-inlay.stl
+            buttons-black-blockers.stl

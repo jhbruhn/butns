@@ -1,0 +1,38 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Buttons": {
+            "cross": "true",
+            "height": "5.2999999999999998",
+            "inlayslack": "1",
+            "only_blockers": "false",
+            "only_inlay": "false",
+            "px": "11.43",
+            "py": "11.4",
+            "rubberslack": "0.59999999999999998",
+            "s": "8.5"
+        },
+        "Inlay": {
+            "cross": "true",
+            "height": "5.2999999999999998",
+            "inlayslack": "1",
+            "only_blockers": "false",
+            "only_inlay": "true",
+            "px": "11.43",
+            "py": "11.4",
+            "rubberslack": "0.59999999999999998",
+            "s": "8.5"
+        },
+        "Blockers": {
+            "cross": "false",
+            "height": "5.2999999999999998",
+            "inlayslack": "1",
+            "only_blockers": "true",
+            "only_inlay": "false",
+            "px": "11.43",
+            "py": "11.4",
+            "rubberslack": "0.59999999999999998",
+            "s": "8.5"
+        }
+    }
+}

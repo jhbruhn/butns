@@ -16,7 +16,12 @@ w = 0.42*3;
 h = 0.12*3;
 
 cross = true;
-/*
+
+only_blockers = false;
+
+only_inlay = false;
+
+if(!only_blockers && !only_inlay) {
 intersection() {
 difference() {
 union() {
@@ -57,11 +62,14 @@ translate([x * px + s/2, y * py, inlayheight / 2]) cube([3.25, s/3, inlayheight]
 
 for(y=[0:8-1])
 translate([-1 * px + s - 1, y * py, inlayheight / 2]) cube([2.75, s/4, inlayheight], center = true);
-*/
+}
+if (only_blockers && !only_inlay) {
 color("blue")
 for(x=[0:8-1]) for(y=[0:8-1])
 translate([x * px - s/2+.15, y * py, (height - 2) / 2]) cube([.4, s-3, height - 2], center = true);
-/*
+}
+
+if (!only_blockers && only_inlay) {
 
 
 color("blue") translate([0, 0, inlayheight]) difference() {
@@ -70,4 +78,5 @@ color("blue") translate([0, 0, inlayheight]) difference() {
  for(x=[0:8-1]) for(y=[0:8-1])
 translate([x * px, y * py, height / 2]) roundedcube([s+rubberslack, s + rubberslack, height], center = true, radius = 1.5, "zmax");
 
-}*/
+}
+}
