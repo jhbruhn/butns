@@ -1,0 +1,35 @@
+name: Publish
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build-stls:
+    uses: ./.github/workflows/build-stls.yml
+  compile-sketch:
+    uses: ./.github/workflows/compile-sketch.yml
+  publish:
+    name: Publish binaries
+    runs-on: ubuntu-latest
+    steps:
+    - name: Download firmware artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: firmware
+    - name: Download case artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: case
+    - name: Download buttons artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: buttons
+    - name: Release
+      uses: softprops/action-gh-release@v2
+      if: startsWith(github.ref, 'refs/tags/')
+      with:
+          files: |
+            *.uf2
+            *.stl
