@@ -16,7 +16,7 @@ jobs:
       - name: Compile sketches
         uses: arduino/compile-sketches@v1
         with:
-          platforms:
+          platforms: |
             - name: "earlephilhower:arduino-pico"
               source-url: https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
           fqbn: earlephilhower:arduino-pico:rp2040
