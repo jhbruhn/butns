@@ -26,3 +26,8 @@ jobs:
 
       - name: Build PlatformIO Project
         run: cd firmware && pio run
+      - name: Archive
+        uses: actions/upload-artifact@v2
+        with:
+          name: firmware
+          path: firmware/.pio/build/*/firmware.uf2
