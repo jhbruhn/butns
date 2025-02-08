@@ -5,7 +5,7 @@ on:
   - pull_request
 
 jobs:
-  compile-sketches:
+  compile-firmware:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,4 +30,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: firmware
-          path: firmware/.pio/build/*/firmware.uf2
+          path: firmware/.pio/build/pico/firmware.uf2
