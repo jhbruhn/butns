@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1c3520c0-bca7-4d12-8c9b-3ac18c44338d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 128.27 74.93)
+		(size 24.13 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b0295986-856b-4508-9cd9-aff1aa86ee33")
+		(property "Sheetname" "Frontend"
+			(at 128.27 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "butns-frontend.kicad_sch"
+			(at 128.27 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "butns"
+				(path "/1c3520c0-bca7-4d12-8c9b-3ac18c44338d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 77.47)
+		(size 26.67 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d5941714-0239-4676-93bd-9d828e2adbdd")
+		(property "Sheetname" "Backend"
+			(at 177.8 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "butns-backend.kicad_sch"
+			(at 177.8 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "butns"
+				(path "/1c3520c0-bca7-4d12-8c9b-3ac18c44338d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

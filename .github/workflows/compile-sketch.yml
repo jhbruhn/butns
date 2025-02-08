@@ -1,0 +1,27 @@
+name: Compile Sketch
+
+on:
+  - push
+  - pull_request
+
+jobs:
+  compile-sketches:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # See: https://github.com/arduino/compile-sketches#readme
+      - name: Compile sketches
+        uses: arduino/compile-sketches@v1
+        with:
+          platforms:
+            - name: "earlephilhower:arduino-pico"
+              source-url: https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
+          fqbn: earlephilhower:arduino-pico:rp2040
+          sketch-paths: |
+            - firmware/
+          libraries: |
+            - name: Adafruit_NeoPixel
+            - name: Adafruit_MPU6050
