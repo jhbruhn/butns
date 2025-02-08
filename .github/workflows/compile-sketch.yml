@@ -17,7 +17,7 @@ jobs:
         uses: arduino/compile-sketches@v1
         with:
           platforms: |
-            - name: "rp2040:rp2040"
+            - name: "rp2040:rp2040:rpipico"
               source-url: https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
           fqbn: rp2040:rp2040
           sketch-paths: |
