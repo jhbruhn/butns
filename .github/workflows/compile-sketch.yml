@@ -23,5 +23,5 @@ jobs:
           sketch-paths: |
             - firmware/
           libraries: |
-            - name: Adafruit_NeoPixel
-            - name: Adafruit_MPU6050
+            - name: Adafruit NeoPixel
+            - name: Adafruit MPU6050
