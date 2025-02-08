@@ -14,26 +14,26 @@ jobs:
         with:
           submodules: true
       - name: Generate Case
-        uses: gpmidi/openscad-build-action@157e7ff470cedf28c11f361941e7e12fffc339e3
+        uses: jhbruhn/openscad-build-action@main
         with:
           input-file: 'hardware/case/case.scad'
           output-file: 'case.stl'
       - name: Generate Buttons
-        uses: gpmidi/openscad-build-action@157e7ff470cedf28c11f361941e7e12fffc339e3
+        uses: jhbruhn/openscad-build-action@main
         with:
           input-file: 'hardware/case/buttons.scad'
           output-file: 'buttons.stl'
           customizer-parameter-file: 'hardware/case/buttons.json'
           customizer-parameter-set: 'Buttons'
       - name: Generate Inlay
-        uses: gpmidi/openscad-build-action@157e7ff470cedf28c11f361941e7e12fffc339e3
+        uses: jhbruhn/openscad-build-action@main
         with:
           input-file: 'hardware/case/buttons.scad'
           output-file: 'buttons-tpu-inlay.stl'
           customizer-parameter-file: 'hardware/case/buttons.json'
           customizer-parameter-set: 'Inlay'
       - name: Generate Light Blockers
-        uses: gpmidi/openscad-build-action@157e7ff470cedf28c11f361941e7e12fffc339e3
+        uses: jhbruhn/openscad-build-action@main
         with:
           input-file: 'hardware/case/buttons.scad'
           output-file: 'buttons-black-blockers.stl'
