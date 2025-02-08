@@ -1,4 +1,4 @@
-name: Compile Sketch
+name: Compile Firmware
 
 on:
   - push
@@ -12,19 +12,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # See: https://github.com/arduino/compile-sketches#readme
-      - name: Compile sketches
-        uses: arduino/compile-sketches@v1
+      - uses: actions/cache@v4
         with:
-          platforms: |
-            - name: "rp2040:rp2040"
-              source-url: https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
-          fqbn: rp2040:rp2040:rpipico
-          sketch-paths: |
-            - firmware/
-          cli-compile-flags: |
-            - --board-options
-            - "usbstack=tinyusb"
-          libraries: |
-            - name: Adafruit NeoPixel
-            - name: Adafruit MPU6050
+          path: |
+            ~/.cache/pip
+            ~/.platformio/.cache
+          key: ${{ runner.os }}-pio
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install PlatformIO Core
+        run: pip install --upgrade platformio
+
+      - name: Build PlatformIO Project
+        run: cd firmware && pio run
