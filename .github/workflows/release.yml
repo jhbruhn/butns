@@ -39,4 +39,4 @@ jobs:
             *.uf2
             *.stl
             *.csv
-            *.zip
+            JLCPCB/*.zip
