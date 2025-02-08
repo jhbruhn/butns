@@ -22,6 +22,8 @@ jobs:
           fqbn: rp2040:rp2040:rpipico
           sketch-paths: |
             - firmware/
+          cli-compile-flags: |
+            - --board-options "usbstack=tinyusb"
           libraries: |
             - name: Adafruit NeoPixel
             - name: Adafruit MPU6050
