@@ -79,3 +79,26 @@ jobs:
         with:
           name: firmware
           path: firmware/.pio/build/pico/firmware.uf2
+
+  build-pcb:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        # Required - kibot config file
+        config: hardware/board/jlcpcb.kibot.yaml
+        # optional - prefix to output defined in config
+        dir: hardware/board/output
+        # optional - schematic file
+        schema: 'hardware/board/butns.kicad_sch'
+        # optional - PCB design file
+        board: 'hardware/board/butns.kicad_pcb'
+    - name: upload results
+      if: ${{ always() }}
+      uses: actions/upload-artifact@v4
+      with:
+        name: board
+        path: |
+          hardware/board/output/*.csv          
+          hardware/board/output/JLCPCB/*.zip

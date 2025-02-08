@@ -10575,15 +10575,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 82.55 195.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6dc43df6-f507-4fbd-9415-4ee2a152a629")
 		)
@@ -10645,15 +10636,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 374.65 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 374.65 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10723,15 +10705,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 54.61 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 57.15 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10871,15 +10844,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 429.26 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 429.26 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11171,15 +11135,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 87.63 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "d832029f-6819-4297-a4f8-6fb646b251d9")
 		)
@@ -11315,15 +11270,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 265.43 249.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "a93dcfbe-168d-4ea7-9060-91916d235483")
 		)
@@ -11400,15 +11346,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 290.83 195.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "243e8225-1786-4844-aff4-ecdab5cb637a")
 		)
@@ -11471,15 +11408,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 120.65 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 123.19 293.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11775,15 +11703,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 143.51 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "5446f9ab-312d-4675-8436-9eeb50cc174b")
 		)
@@ -11862,15 +11781,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 417.83 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 417.83 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12079,15 +11989,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 314.96 249.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "102c04d1-44cb-4391-9ad2-218db0ef87b5")
 		)
@@ -12164,15 +12065,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 274.32 195.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2700792b-767c-498a-b52a-aff288124965")
 		)
@@ -12234,15 +12126,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 374.65 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 374.65 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12383,15 +12266,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 374.65 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c659fc4a-1324-4604-b6c3-5609998c8104")
 		)
@@ -12455,15 +12329,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 128.27 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 132.08 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12599,15 +12464,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 104.14 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 106.68 293.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12967,15 +12823,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 198.12 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "9efc2d52-ebeb-498a-bd2a-ec0b2edbc642")
 		)
@@ -13039,15 +12886,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 153.67 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 156.21 249.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13122,15 +12960,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 154.94 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 154.94 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13338,15 +13167,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 199.39 293.624 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "91d37d0b-897c-4d1d-9c1f-0e6c4b7ab36b")
 		)
@@ -13423,15 +13243,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 224.79 151.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "44250fb1-2348-4fad-b160-27f70978fc9e")
 		)
@@ -13493,15 +13304,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 318.77 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 318.77 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13710,15 +13512,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 115.57 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "5caccba2-6c66-4662-9e2d-da5070d2ba1a")
 		)
@@ -13779,15 +13572,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 154.94 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 154.94 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13874,15 +13658,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 198.12 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 198.12 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14089,15 +13864,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 99.06 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c558c0b9-5c9e-4dda-9201-f3331714161d")
 		)
@@ -14160,15 +13926,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 71.12 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 73.66 293.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14333,15 +14090,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 307.34 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "9b80eb36-f056-41de-bbb5-294ce4b4f776")
 		)
@@ -14405,15 +14153,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 95.25 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 99.06 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14557,15 +14296,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 156.21 160.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "59600144-53ff-468f-91f4-82e6c3daffbd")
 		)
@@ -14635,15 +14365,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 237.49 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 241.3 284.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14785,15 +14506,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 99.06 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "99cd266c-d18c-4d42-b39e-6c3d5087bb0e")
 		)
@@ -14856,15 +14568,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 229.87 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 232.41 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14948,15 +14651,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 307.34 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "69c16693-2dbe-4106-aa51-b576b02db41a")
 		)
@@ -15019,15 +14713,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 246.38 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 248.92 293.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15102,15 +14787,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 154.94 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 154.94 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15401,15 +15077,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 417.83 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "399bd3e6-05ad-423d-8182-a66182d61f06")
 		)
@@ -15496,15 +15163,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 417.83 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "3718fe9d-624e-49f1-b5eb-7aa9b8de4493")
 		)
@@ -15566,15 +15224,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 154.94 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 154.94 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15668,15 +15317,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 143.51 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "26990167-455d-41eb-9458-a85dfc39fcf8")
 		)
@@ -15756,15 +15396,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 363.22 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 363.22 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15898,15 +15529,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 318.77 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 318.77 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16109,15 +15731,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 45.72 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 49.53 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16407,15 +16020,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 87.63 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "f9f2eb3e-3f3a-4d66-a303-70af6650fce8")
 		)
@@ -16544,15 +16148,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 128.27 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 132.08 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16694,15 +16289,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 262.89 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "3f1b5ba5-b8c5-447b-91ef-fb4f01765eba")
 		)
@@ -16788,15 +16374,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 198.12 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "8fa22281-f823-49cd-8806-adf76d75edbe")
 		)
@@ -16858,15 +16435,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 209.55 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 209.55 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16960,15 +16528,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 87.63 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "5fa39db0-db73-4e8e-a370-ace0a25aa39c")
 		)
@@ -17032,15 +16591,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 303.53 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 307.34 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17182,15 +16732,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 99.06 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "67101d00-31fd-4844-90a4-e23a516b619a")
 		)
@@ -17254,15 +16795,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 144.78 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 148.59 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17404,15 +16936,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 43.18 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6cd4cf4f-2da5-4658-b2f9-6661aefd6845")
 		)
@@ -17492,15 +17015,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 87.63 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 87.63 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17635,15 +17149,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 120.65 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 123.19 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17801,15 +17306,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 363.22 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 363.22 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18018,15 +17514,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 66.04 195.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "8a88a2f5-f629-4a86-9bb3-78303728f127")
 		)
@@ -18090,15 +17577,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 128.27 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 132.08 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18438,15 +17916,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 49.53 195.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "13723441-7aeb-48b0-bb5e-d49966e52bde")
 		)
@@ -18582,15 +18051,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 281.94 204.724 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "06d6f35c-9466-431c-8689-570cfcd86099")
 		)
@@ -18659,15 +18119,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 54.61 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 57.15 293.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18750,15 +18201,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 90.17 160.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "c4bfdaee-6c48-4583-a09b-efb28c7ade69")
 		)
@@ -18834,15 +18276,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 40.64 249.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "4075b88e-1afc-4de7-8b87-2f7466f9e9e1")
 		)
@@ -18910,15 +18343,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 154.94 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 154.94 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19143,15 +18567,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 198.12 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "67db8d9f-45c7-4a91-93dc-a725f28256cf")
 		)
@@ -19369,15 +18784,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 198.12 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "6b8b2b11-20da-48dd-b00b-f95e5597829c")
 		)
@@ -19446,15 +18852,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 154.94 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "76ec866b-e230-482c-bbfc-0027ba65d128")
 		)
@@ -19515,15 +18912,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 429.26 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 429.26 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19862,15 +19250,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 318.77 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a3cd0d27-12b2-44af-9a08-559354755a32")
 		)
@@ -20015,15 +19394,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 198.12 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 198.12 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20365,15 +19735,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 208.28 195.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "707f7a34-0dcd-48b1-9359-b72fcbf23d90")
 		)
@@ -20436,15 +19797,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 54.61 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 57.15 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20609,15 +19961,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 198.12 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "59193b78-e936-4edc-8b58-b445cceb1f85")
 		)
@@ -20680,15 +20023,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 71.12 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 73.66 249.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20788,15 +20122,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 198.12 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "88f35d41-a1ef-467c-9baf-a1202804c8e9")
 		)
@@ -20859,15 +20184,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 213.36 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 215.9 249.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20951,15 +20267,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 274.32 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "1d948c6b-a3d4-417c-8837-1dc2a860a58c")
 		)
@@ -21023,15 +20330,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 153.67 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 156.21 293.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21124,15 +20422,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 363.22 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 363.22 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21537,15 +20826,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 262.89 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "972ad45c-5503-4fbb-bcc0-e83fc5da9752")
 		)
@@ -21680,15 +20960,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 262.89 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "0ba2fdb6-5eb6-4025-b038-b82238448ed7")
 		)
@@ -21751,15 +21022,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 279.4 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 281.94 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21909,15 +21171,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 257.81 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "dfd4ba4d-250c-4947-9e3b-4bedd1c71112")
 		)
@@ -21981,15 +21234,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 303.53 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 307.34 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22076,15 +21320,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 307.34 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 307.34 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22292,15 +21527,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 298.45 160.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "1d51f033-7a36-48dd-8c3e-683e1f551f1a")
 		)
@@ -22372,15 +21598,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 161.29 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 165.1 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22652,15 +21869,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 199.39 249.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "881a8c55-d3ba-4720-8348-240cabc901e1")
 		)
@@ -22818,15 +22026,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 251.46 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "ba47534b-cfb1-460a-a2bb-d91d1ddc3deb")
 		)
@@ -22890,15 +22089,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 270.51 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 274.32 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23104,15 +22294,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 209.55 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e166258e-f2ca-4827-9070-a321458562e5")
 		)
@@ -23183,15 +22364,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 224.79 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a7771f8d-0fac-40a6-a87c-68f95eff523b")
 		)
@@ -23253,15 +22425,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 262.89 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 262.89 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23341,15 +22504,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 165.1 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "cf42190c-42f4-430a-b098-fc8da3f6a8a5")
 		)
@@ -23411,15 +22565,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 154.94 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 154.94 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23644,15 +22789,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 307.34 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "145f5b53-da9b-46d6-945e-09ee8027bf07")
 		)
@@ -23715,15 +22851,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 213.36 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 215.9 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23800,15 +22927,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 78.74 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 82.55 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24147,15 +23265,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 139.7 293.624 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "bfa792fe-6814-4991-b413-0b08d734d2db")
 		)
@@ -24297,15 +23406,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 265.43 160.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "e72d4348-5f71-41c4-a925-02d1bb084b73")
 		)
@@ -24391,15 +23491,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 31.75 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 31.75 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24493,15 +23584,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 251.46 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "f1b06847-77af-45f4-9bcd-9a81c29aece6")
 		)
@@ -24565,15 +23647,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 312.42 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 314.96 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24648,15 +23721,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 43.18 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 43.18 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24790,15 +23854,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 318.77 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 318.77 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24999,15 +24054,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 279.4 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 281.94 293.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25287,15 +24333,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 298.45 249.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "a0ca23ce-1d91-4770-9a60-9288cba48d91")
 		)
@@ -25504,15 +24541,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 314.96 204.724 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "5fab4b03-5a6d-4a58-872e-4b9dc6ffe201")
 		)
@@ -25580,15 +24608,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 429.26 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 429.26 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25859,15 +24878,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 154.94 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "90823a62-086c-4898-b4d7-00867e4900a4")
 		)
@@ -26071,15 +25081,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 165.1 240.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4807eb3e-3c90-4f7c-8321-adb0fef3041d")
 		)
@@ -26166,15 +25167,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 143.51 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "7ecde1ee-705f-4e1d-82f9-981ae4e609e5")
 		)
@@ -26245,15 +25237,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 290.83 151.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4db18c5d-c54d-4d0f-8a94-c45d95d42752")
 		)
@@ -26317,15 +25300,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 287.02 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 290.83 284.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26532,15 +25506,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 262.89 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f7b86e1d-3ce3-4dad-80cb-f6c4a3b7c904")
 		)
@@ -26603,15 +25568,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 246.38 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 248.92 249.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26688,15 +25644,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 153.67 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 156.21 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26846,15 +25793,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 115.57 151.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a31174db-b5b9-4bb5-98a0-e7451fab4319")
 		)
@@ -26989,15 +25927,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 199.39 160.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "ca986104-cd20-4757-a041-79a64a5cd271")
 		)
@@ -27069,15 +25998,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 320.04 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 323.85 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27171,15 +26091,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 31.75 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "5541401e-9d08-4e73-ac81-4e5324e02c65")
 		)
@@ -27241,15 +26152,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 374.65 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 374.65 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27319,15 +26221,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 87.63 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 90.17 249.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27499,15 +26392,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 148.59 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "bad9aba5-b4eb-4f83-ae5e-ec6f158eaa6b")
 		)
@@ -27639,15 +26523,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 320.04 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 323.85 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27789,15 +26664,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 209.55 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "cfdc6408-01ba-4455-b068-c6ae25ea5384")
 		)
@@ -27925,15 +26791,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 374.65 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 374.65 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28093,15 +26950,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 31.75 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "94b0f44c-7157-41d7-8519-695fb3b67af2")
 		)
@@ -28172,15 +27020,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 257.81 195.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "82e05b8e-39e8-4838-a77b-ad33ae052eb5")
 		)
@@ -28242,15 +27081,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 262.89 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 262.89 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28344,15 +27174,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 87.63 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "bf205400-1509-48ab-8e5f-c4067a248d6e")
 		)
@@ -28416,15 +27237,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 62.23 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 66.04 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28560,15 +27372,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 120.65 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 123.19 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28717,15 +27520,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 57.15 249.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "05e53d92-e9a5-47e1-af0d-78b79ee95313")
 		)
@@ -28802,15 +27596,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 241.3 240.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "cc9fa257-de98-4643-8642-832b86ea57aa")
 		)
@@ -28873,15 +27658,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 295.91 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 298.45 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29028,15 +27804,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 43.18 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6392fa7e-1cae-489d-8216-27c59dc825da")
 		)
@@ -29099,15 +27866,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 213.36 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 215.9 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29190,15 +27948,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 40.64 293.624 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "f0d8ec9d-3d81-4d54-b8f1-cb8b2faf2291")
 		)
@@ -29267,15 +28016,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 38.1 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 40.64 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29488,15 +28228,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 99.06 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "29d70163-acaa-4271-91aa-58bc17563d84")
 		)
@@ -29576,15 +28307,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 307.34 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 307.34 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29743,15 +28465,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 31.75 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "239467a5-0e44-4da9-bd9b-fec90a4cfadc")
 		)
@@ -29884,15 +28597,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 429.26 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "9336c23f-8221-4abe-bba3-49289838c608")
 		)
@@ -29963,15 +28667,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 208.28 151.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "b46a34ac-5944-422c-9fd7-d7d0842bee80")
 		)
@@ -30035,15 +28730,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 312.42 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 314.96 293.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30326,15 +29012,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 323.85 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "d965e7c7-270c-4f71-9cc9-16411381f154")
 		)
@@ -30601,15 +29278,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 265.43 204.724 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "c4027185-264d-4ee0-a9a6-d81f6fdac1b7")
 		)
@@ -30766,15 +29434,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 251.46 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "4d268753-01d0-4d9e-b255-71506eaa8dcf")
 		)
@@ -30836,15 +29495,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 318.77 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 318.77 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30986,15 +29636,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 43.18 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "52e89a66-dd9d-4007-a44e-bf13a965760a")
 		)
@@ -31081,15 +29722,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 251.46 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "533428a0-a0a3-41ce-a4c7-2bf368145054")
 		)
@@ -31152,15 +29784,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 104.14 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 106.68 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31373,15 +29996,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 298.45 293.624 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "29080a2b-5538-4a56-bec8-c530bf8d7abd")
 		)
@@ -31540,15 +30154,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 251.46 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "ab82e60b-a18a-4e00-8740-451a97203d3c")
 		)
@@ -31619,15 +30224,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 115.57 240.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "07b1cba2-397c-4a83-adab-3014b58855a3")
 		)
@@ -31690,15 +30286,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 137.16 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 139.7 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31911,15 +30498,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 429.26 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "9358051d-12a0-4a0d-a88e-508ddc7b39c8")
 		)
@@ -32048,15 +30626,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 137.16 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 139.7 249.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32269,15 +30838,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 43.18 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "900d0b99-f77f-4353-9aea-b090f54d04ae")
 		)
@@ -32412,15 +30972,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 99.06 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "0ebf3af6-63a0-419f-a890-f8f74dab8c42")
 		)
@@ -32507,15 +31058,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 87.63 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "d2217b48-26f5-49f2-8072-32edd0112306")
 		)
@@ -32578,15 +31120,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 104.14 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 106.68 249.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32799,15 +31332,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 209.55 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "990e3973-7bbb-4c58-8b21-8f655077d200")
 		)
@@ -32871,15 +31395,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 204.47 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 208.28 284.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32956,15 +31471,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 90.17 293.624 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "b5f32bfa-85c7-4db9-9480-d9495ebad340")
 		)
@@ -33034,15 +31540,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 287.02 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 290.83 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33136,15 +31633,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 251.46 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "05e22f77-1bbd-4457-af9f-70613ec3e587")
 		)
@@ -33206,15 +31694,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 374.65 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 374.65 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33308,15 +31787,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 363.22 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "9c8965bd-4288-4bb4-a7f9-35d8a30450bd")
 		)
@@ -33403,15 +31873,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 417.83 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "ddd6d8d6-e14e-4971-855a-7b2e8fefb5e2")
 		)
@@ -33475,15 +31936,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 254 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 257.81 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33626,15 +32078,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 265.43 293.624 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "a44b8761-4230-4d16-8b56-cd9f3861f78c")
 		)
@@ -33706,15 +32149,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 320.04 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 323.85 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33808,15 +32242,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 143.51 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "1ca213c1-6563-4d0d-91d1-5a752928c758")
 		)
@@ -33885,15 +32310,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 99.06 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "82db3b7c-e820-456b-ac15-6c692c9a6261")
 		)
@@ -33955,15 +32371,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 99.06 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 99.06 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34121,15 +32528,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 31.75 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "0a7e8536-0a7d-439e-8f18-19ee88ece21f")
 		)
@@ -34195,15 +32593,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 161.29 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 165.1 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34427,15 +32816,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 251.46 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "6e03a12f-bb52-4e47-8026-9e2334d09733")
 		)
@@ -34498,15 +32878,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 213.36 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 215.9 293.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34589,15 +32960,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 90.17 204.724 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "34c665b1-4a6c-4e91-8414-f99d51189b5c")
 		)
@@ -34665,15 +33027,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 43.18 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 43.18 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34948,15 +33301,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 139.7 160.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "ea4089d8-6e16-4da9-b7ed-cf4b709ed4f1")
 		)
@@ -35163,15 +33507,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 73.66 204.724 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "81bbfa29-9200-47f8-8ee5-5f55148ddc31")
 		)
@@ -35248,15 +33583,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 307.34 240.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "b333057a-2d05-4715-94d0-a6c14d98a6ba")
 		)
@@ -35317,15 +33643,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 374.65 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 374.65 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35419,15 +33736,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 143.51 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "9fea3fbe-1d4f-4e72-81ad-f278d4688399")
 		)
@@ -35491,15 +33799,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 237.49 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 241.3 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35576,15 +33875,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 232.41 204.724 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "8ca21553-39ec-43d4-a366-90cfc76d0153")
 		)
@@ -35653,15 +33943,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 196.85 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 199.39 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35874,15 +34155,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 43.18 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "80fc6a80-66dc-49cd-8860-bca310df691d")
 		)
@@ -35946,15 +34218,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 254 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 257.81 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36160,15 +34423,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 209.55 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "0898e558-85da-45b9-9cb2-39a7d92be6e8")
 		)
@@ -36248,15 +34502,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 87.63 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 87.63 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36531,15 +34776,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 82.55 151.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "842a34c1-d8d3-4730-8610-29a190e1723a")
 		)
@@ -36610,15 +34846,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 274.32 240.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "856c480e-2552-4c52-853a-2e34d5314c94")
 		)
@@ -36682,15 +34909,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 220.98 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 224.79 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36850,15 +35068,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 417.83 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "91e4bd1b-709d-4187-a53d-933b6ec81347")
 		)
@@ -36938,15 +35147,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 143.51 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 143.51 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37090,15 +35290,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 132.08 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ab4939f8-a53e-433f-bbb4-c52dd27ad4fb")
 		)
@@ -37178,15 +35369,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 363.22 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 363.22 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37741,15 +35923,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 307.34 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "671919a7-190a-4ecd-abba-874eff364fbd")
 		)
@@ -37813,15 +35986,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 220.98 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 224.79 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38047,15 +36211,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 363.22 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "18047e51-68cb-444b-8dd2-211a39d0e4b4")
 		)
@@ -38190,15 +36345,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 99.06 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ef0185ea-ba7e-4f7e-a23a-9b9d3089bb18")
 		)
@@ -38261,15 +36407,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 229.87 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 232.41 293.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38369,15 +36506,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 417.83 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "edc4b70f-26be-49c3-bfb0-a675b120a274")
 		)
@@ -38464,15 +36592,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 143.51 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "2da1b6e7-2c35-4e21-9a4f-d61464c7ee08")
 		)
@@ -38536,15 +36655,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 45.72 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 49.53 284.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38631,15 +36741,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 417.83 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 417.83 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38782,15 +36883,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 248.92 204.724 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "9941378c-8d93-4458-b1e2-8ec181f52617")
 		)
@@ -38860,15 +36952,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 204.47 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 208.28 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39078,15 +37161,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 99.06 195.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "cf3bec95-4dde-4f74-96ec-94eea2272806")
 		)
@@ -39166,15 +37240,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 307.34 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 307.34 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39318,15 +37383,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 99.06 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "13afeaf1-38dd-42d8-ba9d-6cdf4b0b2c64")
 		)
@@ -39406,15 +37462,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 307.34 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 307.34 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39508,15 +37555,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 307.34 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "0369cb18-e7df-4f08-b89e-98ed11f9a38e")
 		)
@@ -39580,15 +37618,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 45.72 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 49.53 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39725,15 +37754,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 144.78 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 148.59 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39935,15 +37955,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 62.23 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 66.04 284.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40215,15 +38226,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 123.19 249.174 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "df29f048-7e4e-4a67-9e73-c361b026b285")
 		)
@@ -40447,15 +38449,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 363.22 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "8dd93423-420d-481a-9192-3706fddf5ffb")
 		)
@@ -40535,15 +38528,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 143.51 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 143.51 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40685,15 +38669,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 429.26 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e9396a80-097a-44e4-b6e2-a711339b638b")
 		)
@@ -40773,15 +38748,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 417.83 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 417.83 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40874,15 +38840,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 87.63 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "7307869d-3f22-4a73-95ab-fcef0a5087b4")
 		)
@@ -40945,15 +38902,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 246.38 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 248.92 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41053,15 +39001,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 31.75 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "2b148608-620f-4490-83f2-2b59cea6e7c0")
 		)
@@ -41124,15 +39063,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 279.4 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 281.94 249.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41232,15 +39162,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 31.75 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "73f21225-df66-4aca-ae3a-60df634d877e")
 		)
@@ -41304,15 +39225,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 95.25 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 99.06 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41399,15 +39311,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 31.75 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 31.75 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41942,15 +39845,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 262.89 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "bfbfb87c-d2df-4844-93f9-08216ed18cf2")
 		)
@@ -42103,15 +39997,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 251.46 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "5b5b245b-ddca-4c87-890a-fe56b1fc541b")
 		)
@@ -42173,15 +40058,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 429.26 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 429.26 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42786,15 +40662,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 241.3 151.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f4eaf3b5-b3bc-4cc4-81f6-bdb23411ec4a")
 		)
@@ -42923,15 +40790,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 144.78 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 148.59 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43090,15 +40948,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
-			(at 363.22 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "c0430097-1f33-4477-9c6c-c2119331d1c0")
 		)
@@ -43161,15 +41010,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 104.14 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 106.68 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43251,15 +41091,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 209.55 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "64b51cab-6446-41e3-ab6a-8f8935dfe1b0")
 		)
@@ -43321,15 +41152,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 209.55 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 209.55 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43405,15 +41227,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 209.55 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ad7f9f5e-6dc6-4215-8fc9-542dd472b7ac")
 		)
@@ -43476,15 +41289,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 229.87 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 232.41 249.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43568,15 +41372,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 82.55 284.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "959a0ad4-0808-413e-aec1-9b66f9a06c7a")
 		)
@@ -43639,15 +41434,6 @@
 		)
 		(property "Description" "RGB LED with integrated controller"
 			(at 38.1 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2909058"
-			(at 40.64 160.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43795,15 +41581,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 429.26 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "86c06209-9403-44ff-882f-620ab6b766c7")
 		)
@@ -43865,15 +41642,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 318.77 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 318.77 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44081,15 +41849,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 318.77 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "9b43bcdb-57c1-48a9-94f0-b83fd4d5f537")
 		)
@@ -44219,15 +41978,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 111.76 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 115.57 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44369,15 +42119,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 318.77 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "d3c71c1c-e9b5-46c5-b9f7-255c240f6484")
 		)
@@ -44505,15 +42246,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 374.65 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 374.65 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44787,15 +42519,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C318884"
-			(at 262.89 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ae8888b9-1fd6-4c4c-a692-2e542a9390f8")
 		)
@@ -44930,15 +42653,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2909058"
-			(at 73.66 160.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "15a5bd17-0b38-416e-beca-9af8ee5f8ab8")
 		)
@@ -45015,15 +42729,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 66.04 240.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a8cb0a50-8b69-4ae4-b6b0-74085c2c58f7")
 		)
@@ -45085,15 +42790,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 43.18 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C318884"
-			(at 43.18 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
