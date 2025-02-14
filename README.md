@@ -27,3 +27,5 @@ It is highly recommended to order the PCB assembled from JLCPCB. That assembly w
 ## Assembly
 
 Flash microcontroller with `firmware.uf2`. Solder MCU and Pin-Header to PCB. Screw everything into the case. Done!
+
+Hint: The cases Top half has one specific orientation where it fits nicely: The top-screw-posts of the top-half with the larger cutoaways go to the side opposite of the USB Connector.
