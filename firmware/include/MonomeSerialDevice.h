@@ -74,7 +74,7 @@ public:
   void refreshArc();
 
   void setTiltActive(uint8_t sensor, bool active);
-  void sendTiltEvent(uint8_t sensor, int16_t x, int16_t y, int16_t z);
+  void sendTiltEvent(uint8_t sensor, int8_t xh,int8_t xl,int8_t yh,int8_t yl,int8_t zh,int8_t zl);
 
 
   bool active;

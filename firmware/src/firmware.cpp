@@ -42,6 +42,8 @@ int gridRotation = DEFAULT_ROTATION;
 bool flipHorizontal = DEFAULT_FLIP_HORIZONTAL;
 bool flipVertical = DEFAULT_FLIP_VERTICAL;
 
+bool hasTiltSensor = false;
+
 void sendTiltData();
 void updateLEDMatrix();
 void scanButtonMatrix();
@@ -141,23 +143,17 @@ void setup() {
     pixels.begin();
 
     // Initialize MPU-6050
-    /*Wire.setSCL(21);
+    Wire.setSCL(21);
     Wire.setSDA(20);
-    Wire.begin();*/
+    Wire.begin();
 
-    /*if (!mpu.begin()) {
-        Serial.println("Failed to find MPU6050 chip");
-        while (1) {
-            delay(10);
-        }
+    if (mpu.begin()) {
+        hasTiltSensor = true;
+        Serial.println("MPU6050 Found!");
+
+        mpu.setAccelerometerRange(MPU6050_RANGE_16_G);
+        mpu.setFilterBandwidth(MPU6050_BAND_21_HZ);
     }
-    Serial.println("MPU6050 Found!");
-
-    mpu.setGyroRange(MPU6050_RANGE_500_DEG);
-    mpu.setFilterBandwidth(MPU6050_BAND_21_HZ);
-
-    // Set tilt sensor 0 as active
-    mdp.setTiltActive(0, true);*/
 }
 
 void loop() {
@@ -174,9 +170,9 @@ void loop() {
     }
 
     // Send tilt data every 100ms
-    if (currentMillis - lastTiltCheck >= 100) {
+    if (hasTiltSensor && currentMillis - lastTiltCheck >= 100) {
         lastTiltCheck = currentMillis;
-        //sendTiltData();
+        sendTiltData();
     }
 }
 
@@ -214,10 +210,13 @@ void sendTiltData() {
     sensors_event_t a, g, temp;
     mpu.getEvent(&a, &g, &temp);
 
-    // Scale gyro data to 16-bit integer range
-    int16_t x = (int16_t)(g.gyro.x * 1000);
-    int16_t y = (int16_t)(g.gyro.y * 1000);
-    int16_t z = (int16_t)(g.gyro.z * 1000);
+    // TODO: Include Rotation here?
+    int16_t axis[3];
+    axis[0] = (int16_t)(a.acceleration.x * 4) + 128;
+    axis[1] = (int16_t)(-a.acceleration.y * 4) + 128;
+    axis[2] = (int16_t)(a.acceleration.z * 4) + 128;
 
-    mdp.sendTiltEvent(0, x, y, z);
+    int8_t *axisbytes = (int8_t *)axis;
+
+    mdp.sendTiltEvent(0,axisbytes[0],axisbytes[1],axisbytes[2],axisbytes[3],axisbytes[4],axisbytes[5]);
 }

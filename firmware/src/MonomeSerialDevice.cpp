@@ -43,20 +43,17 @@ void MonomeSerialDevice::setTiltActive(uint8_t sensor, bool active) {
   }
 }
 
-void MonomeSerialDevice::sendTiltEvent(uint8_t sensor, int16_t x, int16_t y, int16_t z) {
+void MonomeSerialDevice::sendTiltEvent(uint8_t sensor, int8_t xh,int8_t xl,int8_t yh,int8_t yl,int8_t zh,int8_t zl) {
     if (sensor < 4 && tiltActive[sensor]) {
-        lastTiltX[sensor] = x;
-        lastTiltY[sensor] = y;
-        lastTiltZ[sensor] = z;
 
         Serial.write((uint8_t)0x81);  // tiltイベントのプレフィックス
         Serial.write(sensor);
-        Serial.write((uint8_t)(x >> 8));
-        Serial.write((uint8_t)(x & 0xFF));
-        Serial.write((uint8_t)(y >> 8));
-        Serial.write((uint8_t)(y & 0xFF));
-        Serial.write((uint8_t)(z >> 8));
-        Serial.write((uint8_t)(z & 0xFF));
+        Serial.write((int8_t)xh);
+        Serial.write((int8_t)xl);
+        Serial.write((int8_t)yh);
+        Serial.write((int8_t)yl);
+        Serial.write((int8_t)zh);
+        Serial.write((int8_t)zl);
     }
 }
 
@@ -637,15 +634,13 @@ void MonomeSerialDevice::processSerial() {
       break;
 
     case 0x81:  // tilt data request
-      {
-        uint8_t sensor = Serial.read();
-        if (sensor < 4 && tiltActive[sensor]) {
-          // recent data send
-          sendTiltEvent(sensor, lastTiltX[sensor], lastTiltY[sensor], lastTiltZ[sensor]);
-        }
-      }
+      readX = Serial.read();
+      setTiltActive(readX, true);
       break;
-
+    case 0x82:  // tilt data request
+      readX = Serial.read();
+      setTiltActive(readX, false);
+      break;
     // 0x90 variable 64 LED ring
     case 0x90:
       //pattern:  /prefix/ring/set n x a
